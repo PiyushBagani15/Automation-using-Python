@@ -1,6 +1,6 @@
 # Automation-using-Python
 Here I have created a Python Script that helps to automate the tasks of LVM. Logical Volume Manager(LVM) allows the Linux kernel to manage large disk drives effectively. 
-The tasks this script can Perform
+The tasks this script can Perform are as follows:
 1) Creating LVM 
 2) Creating Volume Group
 3) Format 
